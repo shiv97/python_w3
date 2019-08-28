@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c162dbcf-ca4b-4dfe-8ddf-1ab69b8d271e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-master/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-master/example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-master/example/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-master/example/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-master/example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-master/javawebcrawler/javawebcrawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Nprint/Nprint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sortdict.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSON/ConvJtp/.idea/ConvJtp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSON/isCMPLXno/.idea/isCMPLXno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JSON/jdumps/.idea/jdumps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../List/SumLi/.idea/SumLi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../List/SumLi/SumLi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../List/mult/.idea/mult.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../List/mult/mult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../List/notl/.idea/notl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../List/notl/notl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp1/.idea/bp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp1/Nprint/.idea/Nprint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp1/VolSph/.idea/VolSph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp1/tup/.idea/tup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp1/venv/Scripts/tup_li/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp2/commdiv/.idea/commdiv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp2/commdiv/commdiv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp2/median/.idea/median.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp2/osfind/.idea/osfind.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bp2/sumdig/.idea/sumdig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../strings/ChangeStr/.idea/ChangeStr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../strings/CharOccur/.idea/CharOccur.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../strings/StrLen/.idea/StrLen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cepheid-wms-service-backend-all (1)/.idea/cepheid-wms-service-backend-all (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvd_rent_java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvd_rent_java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvd_rent_java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvd_rent_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvd_rent_java/Java-master/example/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental/dvdrental.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/springboot2-jpa-crud-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/src/main/java/Service/dvdrentalServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/src/main/java/Service/dvdrentalServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/src/main/java/repository/ActorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/src/main/java/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/src/main/java/repository/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/src/main/java/repository/actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/src/main/java/repository/dvdrentalrepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dvdrental_java/example/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java-learning1-master/.idea/java-learning1-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java-learning1-master/TESTSAMPLE/TESTSAMPLE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jdbc-dvdrental-master/dvdrental_java/example/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jdbc-dvdrental-master/dvdrental_java/example/springboot2-jpa-crud-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jdbc-dvdrental-master/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jdbc-dvdrental-master/example/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../springbootstarterweb/springbootstarterweb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spring-boot2-jpa-crud-example" beforeDir="false" afterPath="$PROJECT_DIR$/../../../spring-boot2-jpa-crud-example" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1Q2gzMn9YEAPO8v7nGYS4YXMUwR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="sortdict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sortdict" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sortdict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sortdict" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c162dbcf-ca4b-4dfe-8ddf-1ab69b8d271e" name="Default Changelist" comment="" />
+      <created>1566974366225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566974366225</updated>
+      <workItem from="1566974367308" duration="224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sortdict$sortdict.coverage" NAME="sortdict Coverage Results" MODIFIED="1566974467260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
